@@ -1,11 +1,12 @@
 package garndesh.bm.configuration;
 
+import garndesh.bm.lib.BlockIds;
+import garndesh.bm.lib.Reference;
+import garndesh.bm.lib.Strings;
+
 import java.io.File;
 import java.util.logging.Level;
 
-import assets.bm.lib.BlockIds;
-import assets.bm.lib.Reference;
-import assets.bm.lib.Strings;
 
 import net.minecraftforge.common.Configuration;
 

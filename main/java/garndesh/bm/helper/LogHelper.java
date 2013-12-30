@@ -1,9 +1,10 @@
 package garndesh.bm.helper;
 
+import garndesh.bm.lib.Reference;
+
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import assets.bm.lib.Reference;
 
 
 import cpw.mods.fml.common.FMLLog;

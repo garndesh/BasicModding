@@ -1,8 +1,8 @@
 package garndesh.bm.blocks;
 
+import garndesh.bm.lib.BlockIds;
+import garndesh.bm.lib.Strings;
 import cpw.mods.fml.common.registry.GameRegistry;
-import assets.bm.lib.BlockIds;
-import assets.bm.lib.Strings;
 import net.minecraft.block.Block;
 
 public class ModBlocks {

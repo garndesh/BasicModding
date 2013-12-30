@@ -1,4 +1,4 @@
-package assets.bm.lib;
+package garndesh.bm.lib;
 
 public class Reference {
 

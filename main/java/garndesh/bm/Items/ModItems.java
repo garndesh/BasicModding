@@ -1,9 +1,9 @@
 package garndesh.bm.Items;
 
+import garndesh.bm.lib.ItemIds;
+import garndesh.bm.lib.Strings;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.item.Item;
-import assets.bm.lib.ItemIds;
-import assets.bm.lib.Strings;
 
 public class ModItems {
 

@@ -1,5 +1,6 @@
 package garndesh.bm;
 
+// Thanks to pahimar and his modding tutorials.
 
 import java.io.File;
 
@@ -9,6 +10,7 @@ import garndesh.bm.Items.ModItems;
 import garndesh.bm.blocks.ModBlocks;
 import garndesh.bm.configuration.ConfigurationHandler;
 import garndesh.bm.helper.LogHelper;
+import garndesh.bm.lib.Reference;
 import garndesh.bm.network.PacketHandler;
 import garndesh.bm.proxy.CommonProxy;
 
@@ -22,7 +24,6 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLServerStartingEvent;
 import cpw.mods.fml.common.network.NetworkMod;
 
-import assets.bm.lib.Reference;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME)
 @NetworkMod(channels = {Reference.CHANNEL_NAME}, clientSideRequired = true, 

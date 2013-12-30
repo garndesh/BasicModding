@@ -3,4 +3,4 @@
 item.bm:basicItem.name=Basic Item
 
 # Block localizations
-block.bm:basicBlock.name= Basic Block
+tile.bm:basicBlock.name=Basic Block

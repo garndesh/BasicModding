@@ -4,7 +4,7 @@ package garndesh.bm.blocks;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import garndesh.bm.BasicMinecraftMod;
-import assets.bm.lib.Strings;
+import garndesh.bm.lib.Strings;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IconRegister;

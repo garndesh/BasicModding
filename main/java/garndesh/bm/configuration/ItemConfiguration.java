@@ -1,12 +1,13 @@
 package garndesh.bm.configuration;
 
+import garndesh.bm.lib.ItemIds;
+import garndesh.bm.lib.Reference;
+import garndesh.bm.lib.Strings;
+
 import java.io.File;
 import java.util.logging.Level;
 
 import net.minecraftforge.common.Configuration;
-import assets.bm.lib.ItemIds;
-import assets.bm.lib.Reference;
-import assets.bm.lib.Strings;
 import cpw.mods.fml.common.FMLLog;
 
 public class ItemConfiguration {
